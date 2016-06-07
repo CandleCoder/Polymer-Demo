@@ -1,0 +1,21 @@
+{
+  "name": "poymer-demo",
+  "description": "demo to show simple cuetom element i.e hello world",
+  "main": "index.html",
+  "authors": [
+    "manikant upadhyay"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "^1.5.0"
+  }
+}
